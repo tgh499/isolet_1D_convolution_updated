@@ -10,4 +10,4 @@ How it works?
 
 If the performance doesn't improve, use Hungarian method. 
 
-To measure entropy, use the quantize_dataset_singlefile_bucket.py file. Note that entropy can be measured in many ways. You need to understand the data to decide which method to choose. Paper incoming about this.
+To measure entropy, use the quantize_dataset_singlefile_bucket.py file. Note that entropy can be measured in many ways. Paper incoming about this. 
