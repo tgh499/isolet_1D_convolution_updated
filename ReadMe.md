@@ -19,4 +19,4 @@ How it works?
 
 If the performance doesn't improve, use Hungarian method. 
 
-To measure entropy, use the quantize_dataset_singlefile_bucket.py file. Note that entropy can be measured in many ways. Paper incoming about this. 
+To measure entropy, use the quantize_dataset_singlefile_bucket.py file. Note that entropy can be measured in many ways. Here we have tried to divide the entire range of feature values into buckets, and use the bucket index as a patch label.
