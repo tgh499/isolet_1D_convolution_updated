@@ -1,3 +1,12 @@
+## Non-image data looking like noise:
+
+![Noisy Data](noise.png)
+
+## After reorganizaing features:
+
+![After reorganizing features](image.png)
+
+
 Please go to https://dl.acm.org/doi/10.1145/3299815.3314429 for details of the feature embedding method. Once done, use the files in the following order.
 
 How it works?
